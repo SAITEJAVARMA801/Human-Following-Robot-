@@ -5,7 +5,8 @@ How to Run
 
 1.Clone this repository:
 		
-  	git clone https://github.com//Human-Following-Robot.git
+  	git clone https://github.com/SAITEJAVARMA801/Human-Following-Robot-.git
+
 
 2.Connect your camera, motors, and hardware.
 
