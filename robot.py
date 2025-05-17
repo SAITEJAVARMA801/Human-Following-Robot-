@@ -2,6 +2,7 @@ import cv2
 import RPi.GPIO as GPIO
 import time
 
+
 # Define motor driver pins
 LEFT_MOTOR_FORWARD = 17
 LEFT_MOTOR_BACKWARD = 18
